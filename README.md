@@ -39,8 +39,6 @@ Dataset Characteristics:
 - 3 balanced classes (50 each)
 - Clean and well-structured dataset
 
-⚠ Note: Since the dataset is small and balanced, models tend to perform very well. This does not reflect real-world data complexity.
-
 ---
 
 ## ⚙️ Experimental Setup
